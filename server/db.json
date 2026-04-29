@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Ana Torres",
+      "activo": true,
+      "documento": "111111"
+    },
+    {
+      "id": "2",
+      "nombre": "Carlos Gómez",
+      "activo": true,
+      "documento": "222222"
+    },
+    {
+      "id": "3",
+      "nombre": "María López",
+      "activo": false,
+      "documento": "333333"
+    },
+    {
+      "id": "4",
+      "nombre": "Juan Pérez",
+      "activo": true,
+      "documento": "444444"
+    },
+    {
+      "id": "5",
+      "nombre": "Laura Martínez",
+      "activo": true,
+      "documento": "555555"
+    },
+    {
+      "id": "6",
+      "nombre": "Pedro Sánchez",
+      "activo": false,
+      "documento": "666666"
+    },
+    {
+      "id": "7",
+      "nombre": "Sofía Ramírez",
+      "activo": true,
+      "documento": "777777"
+    },
+    {
+      "id": "8",
+      "nombre": "Andrés Morales",
+      "activo": true,
+      "documento": "888888"
+    },
+    {
+      "id": "9",
+      "nombre": "Valentina Cruz",
+      "activo": true,
+      "documento": "999999"
+    },
+    {
+      "id": "10",
+      "nombre": "Diego Herrera",
+      "activo": false,
+      "documento": "101010"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Revisar reporte",
+      "descripcion": "Verificar datos del informe",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Actualizar inventario",
+      "descripcion": "Registrar productos faltantes en el sistema",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "titulo": "Enviar correo",
+      "descripcion": "Mandar correo de seguimiento al cliente",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "titulo": "Organizar archivos",
+      "descripcion": "Clasificar documentos por fecha y categoria",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "titulo": "Preparar reunion",
+      "descripcion": "Tener lista la agenda y los puntos a tratar",
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "titulo": "Corregir formulario",
+      "descripcion": "Ajustar validaciones del formulario de registro",
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "titulo": "Respaldar base de datos",
+      "descripcion": "Generar copia de seguridad del sistema",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "titulo": "Probar modulo",
+      "descripcion": "Realizar pruebas funcionales al modulo de usuarios",
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "titulo": "Documentar cambios",
+      "descripcion": "Escribir los cambios realizados en el proyecto",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "titulo": "Subir avances",
+      "descripcion": "Hacer commit y push de los ultimos cambios",
+      "userId": 1
+    }
+  ]
+}
